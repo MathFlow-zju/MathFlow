@@ -39,7 +39,6 @@ The FlowVerse benchmark, code and models will be made publicly available upon pu
 
 
 
-
 ## 💪 Evaluation by yourself
 
 We provide the code to derive the **'Acc' scores and 'CoT-E' scores** by yourself, which requires advanced LLMs (e.g., [ChatGPT/GPT-4](https://platform.openai.com/account/api-keys), or [Qwen-Max](https://help.aliyun.com/zh/dashscope/developer-reference/api-details)) to extract and match answers. 
@@ -92,7 +91,7 @@ python score_final.py \
 ```
 
 
-# 💪 Training Code 
+## 💪 Training Code 
 
 Coming soon!
 
