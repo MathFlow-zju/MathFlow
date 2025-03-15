@@ -96,13 +96,12 @@ python score_final.py \
 
 Coming soon!
 
-## 🏆 Leaderboard
+<!-- ## 🏆 Leaderboard -->
 
-### Contributing to the *testmini* Leaderboard
+<!-- ### Contributing to the *testmini* Leaderboard -->
 
 <!-- 🚨 The [Leaderboard](https://mathverse-cuhk.github.io/#leaderboard) for the *testmini* set is continuously being updated, welcoming the contribution of your excellent MLLMs! ***Currently, we regard the 'w/o' scores without the CoT evaluation as the primary metric in MathVerse***, which is more cost-effective and saves time. -->
-
-### Data Usage
+## 🤖 Data Usage
 
 [FlowVerse](https://huggingface.co/datasets/MathFlow-ZJU/MathFlow/tree/main) dataset is available on Huggingface.
 
