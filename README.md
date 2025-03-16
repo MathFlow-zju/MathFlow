@@ -19,7 +19,7 @@
 - **[2025.03.13]** 🚀 We release the [arXiv paper], the ***testmini*** set of FlowVerse at [[🤗 Huggingface Dataset]](https://huggingface.co/datasets/MathFlow-ZJU/MathFlow/tree/main)!
 
 
-## 👀 About MathVerse
+## 👀 About MathFlow
 
 Despite impressive performance across diverse tasks, Multimodal Large Language Models (MLLMs) have yet to fully demonstrate their potential in visual mathematical problem-solving, particularly in accurately perceiving and interpreting diagrams.
 <p align="center">
