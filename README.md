@@ -16,7 +16,7 @@
 <!-- 🌟 For more details, please refer to the project page with dataset exploration and visualization tools: [https://mathverse-cuhk.github.io/](https://mathverse-cuhk.github.io/). -->
 
 ## 💥 News
-- **[2025.03.13]** 🚀 We release the [arXiv paper](https://arxiv.org/pdf/2403.14624), the ***testmini*** set of FlowVerse at [[🤗 Huggingface Dataset]](https://huggingface.co/datasets/MathFlow-ZJU/MathFlow/tree/main)!
+- **[2025.03.13]** 🚀 We release the [arXiv paper], the ***testmini*** set of FlowVerse at [[🤗 Huggingface Dataset]](https://huggingface.co/datasets/MathFlow-ZJU/MathFlow/tree/main)!
 
 
 ## 👀 About MathVerse
