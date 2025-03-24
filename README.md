@@ -110,12 +110,16 @@ Coming soon!
 Coming soon!
 
 ## 📝 Citation
-@article{chen2025mathflow,
-  title={MathFlow: Enhancing the Perceptual Flow of MLLMs for Visual Mathematical Problems},
-  author={Chen, Felix and Yuan, Hangjie and Xu, Yunqiu and Feng, Tao and Cen, Jun and Liu, Pengwei and Huang, Zeying and Yang, Yi.},
-  journal={arXiv preprint arXiv:2503.16549},
-  year={2025}
+
+If you find our data or code useful in your research, please use the following BibTeX entry.
+```BibTeX
+@article{xu2024mc,
+  title={MC-Bench: A Benchmark for Multi-Context Visual Grounding in the Era of MLLMs},
+  author={Xu, Yunqiu and Zhu, Linchao and Yang, Yi},
+  journal={arXiv preprint arXiv:2410.12332},
+  year={2024}
 }
+```
 
 ## 🧠 Related Work
 
