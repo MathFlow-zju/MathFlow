@@ -16,7 +16,7 @@
 <!-- 🌟 For more details, please refer to the project page with dataset exploration and visualization tools: [https://mathverse-cuhk.github.io/](https://mathverse-cuhk.github.io/). -->
 
 ## 💥 News
-- **[2025.03.13]** 🚀 We release the [arXiv paper], the ***testmini*** set of FlowVerse at [[🤗 Huggingface Dataset]](https://huggingface.co/datasets/MathFlow-ZJU/MathFlow/tree/main)!
+- **[2025.03.13]** 🚀 We release the [arXiv paper] (https://arxiv.org/abs/2503.16549), the ***testmini*** set of FlowVerse at [[🤗 Huggingface Dataset]](https://huggingface.co/datasets/MathFlow-ZJU/MathFlow/tree/main)!
 
 
 ## 👀 About MathFlow
@@ -110,8 +110,13 @@ Coming soon!
 Coming soon!
 
 ## 📝 Citation
+@article{chen2025mathflow,
+  title={MathFlow: Enhancing the Perceptual Flow of MLLMs for Visual Mathematical Problems},
+  author={Chen, Felix and Yuan, Hangjie and Xu, Yunqiu and Feng, Tao and Cen, Jun and Liu, Pengwei and Huang, Zeying and Yang, Yi.},
+  journal={arXiv preprint arXiv:2503.16549},
+  year={2025}
+}
 
-Coming soon!
 ## 🧠 Related Work
 
 Explore our additional research on **Vision-Language Large Models**, focusing on multi-modal LLMs and mathematical reasoning:
