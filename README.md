@@ -115,7 +115,7 @@ If you find our data or code useful in your research, please use the following B
 ```BibTeX
 @article{chen2025mathflow,
   title={MathFlow: Enhancing the Perceptual Flow of MLLMs for Visual Mathematical Problems},
-  author={Chen, Felix and Yuan, Hangjie and Xu, Yungiu and Feng, Tao and Cen, Jun and Liu, Pengweiand Huang, Zeying and Yang, Yi.},
+  author={Chen, Felix and Yuan, Hangjie and Xu, Yungiu and Feng, Tao and Cen, Jun and Liu, Pengwei and Huang, Zeying and Yang, Yi.},
   journal={arXiv preprint arXiv:2503.16549},
   year={2025}
 }
